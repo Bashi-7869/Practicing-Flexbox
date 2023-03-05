@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  
+}
+.ladhak{
+display: flex;
+flex-direction: row;
+margin: 50px;
+
+}
+.ladhak1{
+display: flex;
+
+}
+  #main{
+   
+    box-shadow: inset 10px 10px 10px whitesmoke, 10px 10px 10px rgb(216, 142, 142); 
+     margin: 50px;
+    height: 650px;  
+}  
+#main2{
+   
+   box-shadow: inset 10px 10px 10px whitesmoke, 10px 10px 10px rgb(216, 142, 142) ; 
+   height: 600px;  
+}  
+ 
+div,img{
+width: 300px;
+border-radius: 5px;
+}
+  div,p,h3{
+   
+    width: 300px;
+    margin: 10px;
+    text-decoration: none; 
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.4px;
+    word-spacing:3px ;
+    line-height: 30px ;  
+}
+.div,button{
+width: 200px;
+padding: 10px;
+border-radius: 5px;
+background-color: rgb(132, 241, 241);
+text-align: center;
+display: block; margin: 0 auto;
+} 
+
